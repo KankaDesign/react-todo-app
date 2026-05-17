@@ -21,7 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 🚀 Онлайн-версия
 
-<!-- Ссылку добавим после деплоя -->
+**[Открыть приложение](https://KankaDesign.github.io/react-todo-app)**
 
 ## 🛠 Технологии
 
@@ -49,7 +49,7 @@ npm run build
 # Предпросмотр сборки
 npm run preview
 
-## 📱 Функционал
+# 📱 Функционал
 
 - ✅ Загрузка задач
 - ✅ Добавление новых задач
